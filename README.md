@@ -1,6 +1,6 @@
-# 📺 VideoTube Backend
+# 📺 VideoMate Backend
 
-This is the backend API for **VideoTube**, a full-featured video-sharing platform similar to YouTube. It is built with **Node.js**, **Express.js**, and **MongoDB**, and supports features like video uploads (via **Multer + Cloudinary**), user authentication, comments, playlists, likes, subscriptions, and analytics.
+This is the backend API for **VideoMate**, a full-featured video-sharing platform similar to YouTube. It is built with **Node.js**, **Express.js**, and **MongoDB**, and supports features like video uploads (via **Multer + Cloudinary**), user authentication, comments, playlists, likes, subscriptions, and analytics.
 
 ---
 
