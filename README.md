@@ -4,7 +4,7 @@ This is the backend API for **VideoTube**, a full-featured video-sharing platfor
 
 ---
 
-- Model Link: [VideoMate](https://postimg.cc/Z0hwwkJN).
+- Model Link: [VideoMate](https://miro.com/app/board/uXjVJIp8oj4=/?share_link_id=485577487237).
 
 ---
 
